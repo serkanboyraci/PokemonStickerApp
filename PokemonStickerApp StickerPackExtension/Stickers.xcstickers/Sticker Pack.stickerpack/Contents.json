@@ -1,9 +1,26 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "Onix.sticker"
+    },
+    {
+      "filename" : "raichu.sticker"
+    },
+    {
+      "filename" : "pikachu.sticker"
+    },
+    {
+      "filename" : "charizard.sticker"
+    },
+    {
+      "filename" : "Wigglytuff.sticker"
+    }
+  ]
 }
